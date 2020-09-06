@@ -29,7 +29,7 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc
 p10k configure
 ```
 ### iTerm2 Preferences
-#### Profiles -> Colros...
+#### Profiles -> Colors...
 - Color Presets: Solarized Dark
 - background: #252525
 #### Profiles -> Session
