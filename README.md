@@ -12,6 +12,8 @@ https://apps.apple.com/jp/app/xcode/id497799835?l=en&mt=12
 https://www.google.com/chrome/
 ### Logi Options
 https://www.logicool.co.jp/ja-jp/product/options
+### Google Japanese Input
+https://www.google.co.jp/ime/
 
 ## iTerm2
 ### Homebrew
@@ -26,6 +28,7 @@ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | 
 ```
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc
+source ~/.zshrc
 p10k configure
 ```
 ### iTerm2 Preferences
