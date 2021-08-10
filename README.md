@@ -88,12 +88,19 @@ brew install openinterminal --cask
 
 ### Vim
 
-`~/.vimrc`
+#### Iceberg Color Scheme
+
+```
+mkdir -p ~/.vim/colors
+cd ~/.vim/colors && curl -O https://raw.githubusercontent.com/cocopon/iceberg.vim/master/colors/iceberg.vim
+```
+
+#### `~/.vimrc`
 
 ```
 syntax on
 set tabstop=4
-:colorscheme pablo
+colorscheme iceberg
 set cursorline
 ```
 
