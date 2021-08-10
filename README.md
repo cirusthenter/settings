@@ -84,11 +84,11 @@ brew install openinterminal --cask
 
 ![](https://user-images.githubusercontent.com/11001224/78590336-448f4180-7874-11ea-827c-ad3a7bffca5e.png)
 
-## Other Setting
+## Other Settings
 
 ### Vim
 
-`~/.vimrc` の設定
+`~/.vimrc`
 
 ```
 syntax on
@@ -96,3 +96,9 @@ set tabstop=4
 :colorscheme pablo
 set cursorline
 ```
+
+### Google Japanese Input
+
+![image](https://user-images.githubusercontent.com/47409332/128803761-1e265607-d9b5-47e9-9c8f-3964dca34176.png)
+
+![image](https://user-images.githubusercontent.com/47409332/128803889-0df52ced-bed0-4ec8-912d-4fba48eecff9.png)
