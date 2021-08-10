@@ -57,13 +57,20 @@ p10k configure
 #### Profiles -> Colors...
 
 - Color Presets: Solarized Dark
-- background: #252525
+- Foreground: #ffffff
+- Background: #252525
+- Bold: #ffffff
+- Selection: #c1ddff
 
 #### Profiles -> Session
 
 - ☑Status bar enabled
 
 ![](https://i.ibb.co/NykKs02/status-Bar.png)
+
+#### Appearance -> Dimming
+
+- Dim inactive split panes: off
 
 ### OpenInTerminal
 
