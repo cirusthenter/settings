@@ -40,7 +40,7 @@ p10k configure
 ![](https://i.ibb.co/NykKs02/status-Bar.png)
 ### OpenInTerminal
 ```
-brew cask install openinterminal
+brew install openinterminal --cask
 ```
 #### Setting
 - Open the OpenInTerminal app. Go to System Preferences -> Extensions -> Finder Extensions, check the permission button as below.
