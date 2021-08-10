@@ -57,11 +57,11 @@ p10k configure
 
 - Color Presets: Solarized Dark
 - background: #252525
-- 
+
 #### Profiles -> Session
 
 - ☑Status bar enabled
-- 
+
 ![](https://i.ibb.co/NykKs02/status-Bar.png)
 
 ### OpenInTerminal
@@ -73,5 +73,5 @@ brew install openinterminal --cask
 #### Setting
 
 - Open the OpenInTerminal app. Go to System Preferences -> Extensions -> Finder Extensions, check the permission button as below.
-- 
+
 ![](https://user-images.githubusercontent.com/11001224/78590336-448f4180-7874-11ea-827c-ad3a7bffca5e.png)
