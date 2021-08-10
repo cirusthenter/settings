@@ -1,6 +1,7 @@
 # General Setting fow New Mac
-Ver. 1.0 Sep 7, 2020
-Ver. 1.1 Aug 10, 2021
+
+- Ver. 1.0 Sep 7, 2020
+- Ver. 1.1 Aug 10, 2021
 
 ## Install
 
