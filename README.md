@@ -81,3 +81,11 @@ brew install openinterminal --cask
 
 ### Vim
 
+`~/.vimrc` の設定
+
+```
+syntax on
+set tabstop=4
+:colorscheme pablo
+set cursorline
+```
