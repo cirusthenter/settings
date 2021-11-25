@@ -98,8 +98,10 @@ cd ~/.vim/colors && curl -O https://raw.githubusercontent.com/cocopon/iceberg.vi
 #### `~/.vimrc`
 
 ```
-syntax on
 set tabstop=4
+set shiftwidth=4
+set expandtab
+:syntax on
 colorscheme iceberg
 set cursorline
 ```
