@@ -68,6 +68,10 @@ p10k configure
 
 ![](https://i.ibb.co/NykKs02/status-Bar.png)
 
+#### Profiles -> Text
+
+- Font: size 15
+
 #### Appearance -> Dimming
 
 - Dim inactive split panes: off
