@@ -23,7 +23,7 @@ https://www.google.com/chrome/
 
 ### Logi Options+
 
-https://www.logicool.co.jp/ja-jp/software/logi-options-plus.html
+https://www.logitech.com/en-us/software/logi-options-plus.html
 
 ### Google Japanese Input
 
