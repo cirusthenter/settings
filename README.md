@@ -88,9 +88,10 @@ brew install openinterminal --cask
 
 #### Setting
 
-- Open the OpenInTerminal app. Go to System Preferences -> Extensions -> Finder Extensions, check the permission button as below.
+- Open the OpenInTerminal app. Go to System Preferences -> Extensions -> Full Disk Access, check the permission button as below.
 
-![](https://user-images.githubusercontent.com/11001224/78590336-448f4180-7874-11ea-827c-ad3a7bffca5e.png)
+<img width="780" alt="image" src="https://user-images.githubusercontent.com/47409332/180756830-617c7758-3dbe-4497-b500-e46508e8ff0c.png">
+
 
 ## Other Settings
 
@@ -116,6 +117,4 @@ set cursorline
 
 ### Google Japanese Input
 
-![image](https://user-images.githubusercontent.com/47409332/128803761-1e265607-d9b5-47e9-9c8f-3964dca34176.png)
-
-![image](https://user-images.githubusercontent.com/47409332/128803889-0df52ced-bed0-4ec8-912d-4fba48eecff9.png)
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/47409332/180756676-d1b3fa7d-9dd1-47e2-a4ba-7207b5f28157.png">
