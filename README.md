@@ -118,3 +118,11 @@ set cursorline
 ### Google Japanese Input
 
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/47409332/180756676-d1b3fa7d-9dd1-47e2-a4ba-7207b5f28157.png">
+
+### Visual Studio Code
+
+#### Launching fron the Command Line
+
+- Launch VS Code.
+- Open the Command Palette (Cmd+Shift+P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
+- 
