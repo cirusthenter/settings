@@ -29,6 +29,10 @@ https://www.logitech.com/en-us/software/logi-options-plus.html
 
 https://www.google.co.jp/ime/
 
+### Slack
+
+https://slack.com/intl/en-us/downloads/mac
+
 ## iTerm2
 
 ### Homebrew
