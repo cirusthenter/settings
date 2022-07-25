@@ -125,3 +125,9 @@ set cursorline
 
 - Launch VS Code.
 - Open the Command Palette (Cmd+Shift+P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
+
+### Finder
+
+#### New Finder Windows Show
+
+Finder -> Preferences -> New Finder windows show: iCloud Drive
