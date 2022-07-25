@@ -93,9 +93,6 @@ brew install openinterminal --cask
 
 <img width="780" alt="image" src="https://user-images.githubusercontent.com/47409332/180756830-617c7758-3dbe-4497-b500-e46508e8ff0c.png">
 
-
-## Other Settings
-
 ### Vim
 
 #### Iceberg Color Scheme
@@ -115,6 +112,17 @@ set expandtab
 colorscheme iceberg
 set cursorline
 ```
+
+### GitHub
+
+```
+git config --global user.name cirusthenter
+git config --global user.email cirusthenter@gmail.com
+git config --global core.editor vim
+git config --global merge.tool vimdiff
+```
+
+## Other Settings
 
 ### Google Japanese Input
 
