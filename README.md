@@ -131,3 +131,7 @@ set cursorline
 #### New Finder Windows Show
 
 Finder -> Preferences -> New Finder windows show: iCloud Drive
+
+### Internet Accounts
+
+Activate all internet accounts manually.
