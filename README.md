@@ -21,9 +21,9 @@ https://apps.apple.com/jp/app/xcode/id497799835?l=en&mt=12
 
 https://www.google.com/chrome/
 
-### Logi Options
+### Logi Options+
 
-https://www.logicool.co.jp/ja-jp/product/options
+https://www.logicool.co.jp/ja-jp/software/logi-options-plus.html
 
 ### Google Japanese Input
 
