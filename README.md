@@ -126,6 +126,16 @@ set cursorline
 - Launch VS Code.
 - Open the Command Palette (Cmd+Shift+P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
 
+#### Extensions
+
+- Python
+- C/C++
+- Remote - SSH
+
+#### Font
+
+Set `Editor: Font Family` to `MesloLGS NF`
+
 ### Finder
 
 #### New Finder Windows Show
