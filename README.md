@@ -2,6 +2,7 @@
 
 - Ver. 1.0 Sep 7, 2020
 - Ver. 1.1 Aug 10, 2021
+- Ver. 1.2 Jul 25, 2022
 
 ## Install
 
