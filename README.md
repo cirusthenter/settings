@@ -132,8 +132,14 @@ git config --global merge.tool vimdiff
 
 #### Launching fron the Command Line
 
+- Move `Visual Studio Code.app` to `/Applications`.
 - Launch VS Code.
 - Open the Command Palette (Cmd+Shift+P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
+
+#### Settings Sync
+
+- Open the Command Palette (Cmd+Shift+P) and type 'Settings Sync: Turn on...' to find the `Settings Sync: Turn on...` command.
+- Select `Sign in & Turn on` with GitHub Account.
 
 #### Extensions
 
