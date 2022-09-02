@@ -152,3 +152,17 @@ Finder -> Preferences -> New Finder windows show: iCloud Drive
 ### Internet Accounts
 
 Activate all internet accounts manually.
+
+### TrackPad
+
+<img width="780" alt="image" src="https://user-images.githubusercontent.com/47409332/188105664-2141a4cc-30e7-4370-b32b-2ff48d1454a5.png">
+
+<img width="780" alt="image" src="https://user-images.githubusercontent.com/47409332/188105788-79a5bd74-bf76-4115-b9d0-fbd6bbab0338.png">
+
+### Mouse
+
+<img width="780" alt="image" src="https://user-images.githubusercontent.com/47409332/188105973-a6aaa2a0-dfec-494c-9950-53d6108b4e75.png">
+
+### Keyboard
+
+<img width="780" alt="image" src="https://user-images.githubusercontent.com/47409332/188106030-7e7b4f57-e2e4-432e-85ff-c5b44c070c9e.png">
