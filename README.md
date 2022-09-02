@@ -14,10 +14,6 @@ https://code.visualstudio.com
 
 https://iterm2.com
 
-### XCode
-
-https://apps.apple.com/jp/app/xcode/id497799835?l=en&mt=12
-
 ### Google Chrome
 
 https://www.google.com/chrome/
