@@ -141,12 +141,7 @@ mv ~/Downloads/Visual\ Studio\ Code.app /Applications
 
 - Open the Command Palette (Cmd+Shift+P) and type 'Settings Sync: Turn on...' to find the `Settings Sync: Turn on...` command.
 - Select `Sign in & Turn on` with GitHub Account.
-
-#### Extensions
-
-- Python
-- C/C++
-- Remote - SSH
+- Settings, Extensions, and so on are automatically synced.
 
 #### Font
 
