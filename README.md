@@ -57,6 +57,12 @@ source ~/.zshrc
 p10k configure
 ```
 
+### Visual Studio Code
+
+```
+mv ~/Downloads/Visual\ Studio\ Code.app /Applications
+```
+
 ### iTerm2 Preferences
 
 #### Profiles -> Colors...
