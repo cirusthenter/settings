@@ -141,11 +141,7 @@ mv ~/Downloads/Visual\ Studio\ Code.app /Applications
 
 - Open the Command Palette (Cmd+Shift+P) and type 'Settings Sync: Turn on...' to find the `Settings Sync: Turn on...` command.
 - Select `Sign in & Turn on` with GitHub Account.
-- Settings, Extensions, and so on are automatically synced.
-
-#### Font
-
-Set `Editor: Font Family` to `MesloLGS NF`
+- Settings, Extensions, Fonts and so on are automatically synced.
 
 ### Finder
 
