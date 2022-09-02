@@ -53,12 +53,6 @@ source ~/.zshrc
 p10k configure
 ```
 
-### Visual Studio Code
-
-```
-mv ~/Downloads/Visual\ Studio\ Code.app /Applications
-```
-
 ### iTerm2 Preferences
 
 #### Profiles -> Colors...
@@ -135,6 +129,11 @@ git config --global merge.tool vimdiff
 #### Launching fron the Command Line
 
 - Move `Visual Studio Code.app` to `/Applications`.
+
+```
+mv ~/Downloads/Visual\ Studio\ Code.app /Applications
+```
+
 - Launch VS Code.
 - Open the Command Palette (Cmd+Shift+P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
 
