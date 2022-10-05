@@ -89,6 +89,10 @@ brew install openinterminal --cask
 
 <img width="780" alt="image" src="https://user-images.githubusercontent.com/47409332/180756830-617c7758-3dbe-4497-b500-e46508e8ff0c.png">
 
+- Go to System Preferences -> Extensions -> Finder Extensions, check the button as below.
+
+<img width="780" alt="image" src="https://user-images.githubusercontent.com/47409332/194004281-b2e30b89-2a4c-468f-aa23-a478553e00b9.png">
+
 ### Vim
 
 #### Iceberg Color Scheme
