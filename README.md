@@ -53,6 +53,12 @@ source ~/.zshrc
 p10k configure
 ```
 
+### trash
+
+```
+brew install trash
+```
+
 ### iTerm2 Preferences
 
 #### Profiles -> Colors...
